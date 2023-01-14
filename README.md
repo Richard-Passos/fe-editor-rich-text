@@ -1,4 +1,4 @@
-<h1 align="center">:file_cabinet: Todo List</h1>
+<h1 align="center">:file_cabinet: Editor Rich Text</h1>
 
 ## :memo: Descrição
 Desafio Pessoa, fazer um editor com formatação Rich Text. Feito também para praticar React
