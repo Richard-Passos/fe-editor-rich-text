@@ -11,9 +11,9 @@ Desafio Pessoal, fazer um editor com formatação Rich Text. Feito também para 
 * Git
 
 ## :rocket: Rodando o projeto
-Para rodar o repositório é recomendado acessar:
+Para rodar o repositório é recomendado rodar:
 ```
-https://richard-passos.github.io/ToDo_List_Challenge/loginPage.html
+npm start
 ```
 
 ## :handshake: Colaboradores
