@@ -1,7 +1,7 @@
 <h1 align="center">:file_cabinet: Editor Rich Text</h1>
 
 ## :memo: Descrição
-Desafio Pessoa, fazer um editor com formatação Rich Text. Feito também para praticar React
+Desafio Pessoal, fazer um editor com formatação Rich Text. Feito também para praticar React
 
 ## :wrench: Tecnologias utilizadas
 * HTML;
