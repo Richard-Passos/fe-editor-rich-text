@@ -1,13 +1,21 @@
 .containerMain {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+
   display: flex;
+  justify-content: center;
   align-items: center;
+
+  width: 90%;
+  max-width: 80rem;
+  height: 100vh;
+  margin: 0 auto;
 }
 
 /* Medias Q */
 @media (max-width: 750px) {
-  .containerMain {
-    flex-flow: column wrap;
-    position: relative;
-    margin-top: -20rem;
-  }
+
 }

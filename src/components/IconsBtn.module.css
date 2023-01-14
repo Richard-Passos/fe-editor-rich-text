@@ -2,14 +2,13 @@
   display: flex;
   flex-flow: column nowrap;
   justify-content: space-between;
-  width: 12rem;
+  max-width: 12rem;
   height: 37rem;
   border: 2px ridge #000;
   border-left: 0;
   border-radius: 0 1rem 1rem 0;
   padding: 1rem;
   background-color: #0f0f0f;
-  margin-left: -1rem;
 }
 
 /* Align better the btns */
@@ -76,30 +75,3 @@
   cursor: pointer;
 }
 
-/* Media Q */
-@media (max-width: 750px) {
-  .containerBtns {
-    transform: rotate(90deg);
-    height: 79%;
-    margin-top: -20rem;
-    position: absolute;
-    right: 102px;
-  }
-
-  .btn, .selects, .selectTop {
-    transform: rotate(270deg);
-    overflow: auto;
-  }
-  .sectionSelects {
-    justify-content: initial;
-    position: absolute;
-    left: 100px;
-    top: 200px;
-  }
-
-  .selectTop {
-    position: absolute;
-    left: 65px;
-    bottom: 200px;
-  }
-}
