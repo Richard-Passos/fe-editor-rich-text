@@ -14,7 +14,7 @@ import {
 import styles from "./IconsBtn.module.css";
 
 export default function IconsBtn() {
-  return (
+  return(
     <div className={styles.containerAll}>
       <div className={styles.containerBtns}>
         <section className={styles.sectionSelect}>
@@ -136,7 +136,7 @@ export default function IconsBtn() {
               }}
               className={styles.btn}
             >
-              <input type="color" name="fontColor" clas />
+              <input type="color" name="fontColor"/>
             </button>
 
             <button
