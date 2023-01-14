@@ -1,18 +1,19 @@
-<h1 align="center">:file_cabinet: Editor RichText</h1>
+<h1 align="center">:file_cabinet: Todo List</h1>
 
 ## :memo: Descrição
-Desafio pessoal, editor com formatação Rich Text, sendo Um site da web de "pontuação perfeita" e sendo feito com React
+Desafio Pessoa, fazer um editor com formatação Rich Text. Feito também para praticar React
 
 ## :wrench: Tecnologias utilizadas
 * HTML;
 * CSS;
 * JavaScript;
 * React
+* Git
 
 ## :rocket: Rodando o projeto
 Para rodar o repositório é recomendado acessar:
 ```
-
+https://richard-passos.github.io/ToDo_List_Challenge/loginPage.html
 ```
 
 ## :handshake: Colaboradores
@@ -30,4 +31,4 @@ Para rodar o repositório é recomendado acessar:
 </table>
 
 ## :dart: Status do projeto
-Em produção
+Em Produção

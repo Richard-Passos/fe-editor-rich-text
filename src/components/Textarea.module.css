@@ -1,0 +1,41 @@
+.container {
+  display: flex;
+  align-items: flex-start;
+  height: 37rem;
+  gap: 1rem;
+}
+
+/* Btn to start */
+.btnStart {
+  padding: 1rem 1.5rem;
+  background-color: transparent;
+  border: 2px solid #000;
+  border-radius: 1rem;
+  cursor: pointer;
+}
+.btnStart:hover {
+  color: #fafafa;
+  scale: 1.1;
+}
+
+/* Textarea */
+.textarea {
+  width: 50rem;
+  height: 100%;
+  border: 2px solid #000;
+  border-radius: 1rem;
+  padding: 1rem;
+  background-color: #fafafa;
+}
+
+/* Medias Q */
+@media (max-width: 750px) {
+  .container {
+    flex-flow: column nowrap;
+    align-items: center;
+  }
+
+  .textarea {
+    width: 90%;
+  }
+}

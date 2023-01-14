@@ -1,0 +1,13 @@
+.containerMain {
+  display: flex;
+  align-items: center;
+}
+
+/* Medias Q */
+@media (max-width: 750px) {
+  .containerMain {
+    flex-flow: column wrap;
+    position: relative;
+    margin-top: -20rem;
+  }
+}
