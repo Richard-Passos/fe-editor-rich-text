@@ -1,6 +1,6 @@
 import styles from "./Textarea.module.css";
 
-export default function Textarea() {
+function Textarea() {
   return (
       <div id="body" className={styles.container}>
         <button
@@ -16,3 +16,5 @@ export default function Textarea() {
       </div>
     );
   }
+
+  export default Textarea

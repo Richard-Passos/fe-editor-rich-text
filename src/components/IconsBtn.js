@@ -13,7 +13,7 @@ import {
 } from "@fortawesome/free-solid-svg-icons";
 import styles from "./IconsBtn.module.css";
 
-export default function IconsBtn() {
+function IconsBtn() {
   return(
     <div className={styles.containerAll}>
       <div className={styles.containerBtns}>
@@ -219,3 +219,5 @@ export default function IconsBtn() {
     </div>
   );
 }
+
+export default IconsBtn
