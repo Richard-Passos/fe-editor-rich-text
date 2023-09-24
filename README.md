@@ -1,27 +1,23 @@
-<h1 align="center">:file_cabinet: Editor Rich Text</h1>
+<h1 align="center">:file_cabinet: Rich text editor</h1>
 
-## :memo: Descrição
-Desafio Pessoal, fazer um editor com formatação Rich Text. Feito também para praticar React
+## :memo: Description
+Rich text editor.
 
-## :wrench: Tecnologias utilizadas
-* HTML;
-* CSS;
-* JavaScript;
-* React
-* Git
+## :wrench: Technologies used
+* ReactJS
+* JavaScript
+* CSS
+* HTML
 
-## :rocket: Rodando o projeto
-Para rodar o repositório é recomendado rodar:
-```
-npm start
-```
+## :rocket: Running the project
+To run the repository, it is recommended to clone it
 
-## :handshake: Colaboradores
+## :handshake: Team
 <table>
   <tr>
     <td align="center">
       <a href="https://github.com/Richard-Passos">
-        <img src="https://img.freepik.com/vetores-premium/desenho-de-desenho-animado-de-um-programador_29937-8176.jpg" width="100px;" alt="Foto de Tati Alves no GitHub"/><br>
+        <img src="https://img.freepik.com/vetores-premium/desenho-de-desenho-animado-de-um-programador_29937-8176.jpg" width="100px;" alt="A boy with headphones holding a laptop."/><br>
         <sub>
           <b>Richard P</b>
         </sub>
@@ -30,5 +26,5 @@ npm start
   </tr>
 </table>
 
-## :dart: Status do projeto
-Em Produção
+## :dart: Project status
+Finished
