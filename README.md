@@ -1,7 +1,11 @@
 <h1 align="center">:file_cabinet: Rich text editor</h1>
 
+<br>
+
 ## :memo: Description
 Rich text editor.
+
+<br>
 
 ## :wrench: Technologies used
 * ReactJS
@@ -9,8 +13,12 @@ Rich text editor.
 * CSS
 * HTML
 
-## :rocket: Running the project
-To run the repository, it is recommended to clone it
+<br>
+
+## :rocket: Run project
+To run the project it is recommended to clone it.
+
+<br>
 
 ## :handshake: Team
 <table>
@@ -26,5 +34,7 @@ To run the repository, it is recommended to clone it
   </tr>
 </table>
 
-## :dart: Project status
+<br>
+
+## :dart: Status
 Finished
